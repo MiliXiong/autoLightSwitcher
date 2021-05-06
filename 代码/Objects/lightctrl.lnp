@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\lightctrl" 
+PRINT(".\Listings\lightctrl.m51") RAMSIZE(256) 
