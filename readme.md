@@ -30,4 +30,5 @@
 
 电池：18650
 
+使用效果：https://www.bilibili.com/video/BV1vf4y1p7HE
 
