@@ -1,0 +1,2 @@
+灯开关控制盒是 iPad 上的shapr3D软件画的。
+红外感应器盒子是solidworks画的
